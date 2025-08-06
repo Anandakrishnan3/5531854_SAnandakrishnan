@@ -2,6 +2,6 @@
 
 ## Screenshot
 
-![Quiz Screenshot](GreatLearning_Quiz.jpg)
+![Quiz Screenshot](GreatLearning_Quiz.png)
 
-![C Program Screenshot](c_program.png)
+![C Program Screenshot](c_program.jpg)
